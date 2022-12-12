@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://moshangusa.github.io/zh/categories/</loc>
+    <loc>http://moshangusa.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="http://moshangusa.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
                 href="http://moshangusa.github.io/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://moshangusa.github.io/zh/categories/"
-                />
   </url><url>
-    <loc>http://moshangusa.github.io/zh/tags/</loc>
+    <loc>http://moshangusa.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="http://moshangusa.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
                 href="http://moshangusa.github.io/tags/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://moshangusa.github.io/zh/tags/"
-                />
   </url><url>
-    <loc>http://moshangusa.github.io/zh/</loc>
+    <loc>http://moshangusa.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://moshangusa.github.io/"
+                href="http://moshangusa.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://moshangusa.github.io/zh/"
+                href="http://moshangusa.github.io/"
                 />
   </url>
 </urlset>
