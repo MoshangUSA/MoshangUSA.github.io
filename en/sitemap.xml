@@ -3,7 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://moshangusa.github.io/en/post/</loc>
-    <lastmod>2022-12-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -14,22 +13,6 @@
                 hreflang="en"
                 href="http://moshangusa.github.io/en/post/"
                 />
-  </url><url>
-    <loc>http://moshangusa.github.io/en/</loc>
-    <lastmod>2022-12-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://moshangusa.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://moshangusa.github.io/en/"
-                />
-  </url><url>
-    <loc>http://moshangusa.github.io/en/post/test_folder/</loc>
-    <lastmod>2022-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://moshangusa.github.io/en/categories/</loc>
     <xhtml:link
@@ -53,6 +36,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://moshangusa.github.io/en/contact/"
+                />
+  </url><url>
+    <loc>http://moshangusa.github.io/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://moshangusa.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://moshangusa.github.io/en/"
                 />
   </url><url>
     <loc>http://moshangusa.github.io/en/tags/</loc>
