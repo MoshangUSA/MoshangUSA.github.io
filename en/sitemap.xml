@@ -2,74 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gohugo-theme-ananke.pages.dev/en/post/</loc>
+    <loc>https://moshangusa.github.io/en/post/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://gohugo-theme-ananke.pages.dev/post/"
+                href="https://moshangusa.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/en/post/"
+                href="https://moshangusa.github.io/en/post/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/en/categories/</loc>
+    <loc>https://moshangusa.github.io/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://gohugo-theme-ananke.pages.dev/categories/"
+                href="https://moshangusa.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/en/categories/"
+                href="https://moshangusa.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/en/contact/</loc>
+    <loc>https://moshangusa.github.io/en/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://gohugo-theme-ananke.pages.dev/contact/"
+                href="https://moshangusa.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/en/contact/"
+                href="https://moshangusa.github.io/en/contact/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/en/</loc>
+    <loc>https://moshangusa.github.io/en/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://gohugo-theme-ananke.pages.dev/"
+                href="https://moshangusa.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/en/"
+                href="https://moshangusa.github.io/en/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/en/tags/</loc>
+    <loc>https://moshangusa.github.io/en/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://gohugo-theme-ananke.pages.dev/tags/"
+                href="https://moshangusa.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/en/tags/"
+                href="https://moshangusa.github.io/en/tags/"
                 />
   </url>
 </urlset>
