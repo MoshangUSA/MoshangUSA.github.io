@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>陌上美国 on 中文</title>
-    <link>https://gohugo-theme-ananke.pages.dev/</link>
-    <description>Recent content in 陌上美国 on 中文</description>
+    <title>文章 on 中文</title>
+    <link>https://gohugo-theme-ananke.pages.dev/post/</link>
+    <description>Recent content in 文章 on 中文</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1.7万亿年度财政法案细节：满眼民主党的私货</title>
       <link>https://gohugo-theme-ananke.pages.dev/post/trillion_budget/</link>
@@ -15,16 +15,6 @@
       <guid>https://gohugo-theme-ananke.pages.dev/post/trillion_budget/</guid>
       <description>&lt;p&gt;众议院最重要职能之一就是管国家花钱的事，本届民主党把持的众议院总算到头了，明年一月份就可以迎来共和党主导的众议院了。&lt;/p&gt;
 &lt;p&gt;就是最后一个多礼拜，民主党还是抓着最后一口气整出不少事情，其中包括试图让国会水过造价1.7万亿的年度财政法案。该法案全文厚达4155页，根本只有4个议员提前看过，却要其他400多众议员在1、2天内“读完”，并且投票通过。相当于需要连续16个小时每分钟不间断地阅读4页以上。一场闹剧，自然各种抱怨此起彼伏。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>联系我们</title>
-      <link>https://gohugo-theme-ananke.pages.dev/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gohugo-theme-ananke.pages.dev/contact/</guid>
-      <description>您可以通过以下方式联系我们。
-关注我们的推特。 加入我们的电报群。 向我们发送邮件。 </description>
     </item>
     
   </channel>
