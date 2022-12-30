@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/runner/work/moshangsource/moshangsource",
+	"sourceRoot": "/Users/quarkquartet/Work/moshangusa",
 	"sources": [
 		"ananke/css/main.css"
 	],
