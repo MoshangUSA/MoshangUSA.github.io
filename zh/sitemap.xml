@@ -7,6 +7,31 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://moshangusa.github.io/tags/</loc>
+    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moshangusa.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://moshangusa.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://moshangusa.github.io/tags/travel/</loc>
+    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/post/travel2022/</loc>
+    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://moshangusa.github.io/</loc>
     <lastmod>2022-12-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -49,20 +74,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://moshangusa.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://moshangusa.github.io/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://moshangusa.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://moshangusa.github.io/tags/"
                 />
   </url><url>
     <loc>https://moshangusa.github.io/contact/</loc>
