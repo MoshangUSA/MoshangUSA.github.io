@@ -2,7 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://moshangusa.github.io/en/post/rep_vs_dem/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://moshangusa.github.io/post/rep_vs_dem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moshangusa.github.io/en/post/rep_vs_dem/"
+                />
+  </url><url>
+    <loc>https://moshangusa.github.io/en/tags/anarchy/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://moshangusa.github.io/en/post/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -15,6 +36,111 @@
                 hreflang="en"
                 href="https://moshangusa.github.io/en/post/"
                 />
+  </url><url>
+    <loc>https://moshangusa.github.io/en/tags/bilingualposts/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://moshangusa.github.io/tags/bilingualposts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moshangusa.github.io/en/tags/bilingualposts/"
+                />
+  </url><url>
+    <loc>https://moshangusa.github.io/en/tags/centralization/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/en/tags/democracy/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/en/tags/dictatorship/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/en/tags/education/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/en/tags/history/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/en/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://moshangusa.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moshangusa.github.io/en/"
+                />
+  </url><url>
+    <loc>https://moshangusa.github.io/en/tags/politics/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/en/tags/republic/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/en/tags/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://moshangusa.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moshangusa.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://moshangusa.github.io/en/tags/u.s.-society/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/en/post/harvard_student_speech/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://moshangusa.github.io/post/harvard_student_speech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moshangusa.github.io/en/post/harvard_student_speech/"
+                />
+  </url><url>
+    <loc>https://moshangusa.github.io/en/tags/build-community/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://moshangusa.github.io/en/categories/</loc>
     <changefreq>monthly</changefreq>
@@ -42,34 +168,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://moshangusa.github.io/en/contact/"
-                />
-  </url><url>
-    <loc>https://moshangusa.github.io/en/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://moshangusa.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://moshangusa.github.io/en/"
-                />
-  </url><url>
-    <loc>https://moshangusa.github.io/en/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://moshangusa.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://moshangusa.github.io/en/tags/"
                 />
   </url>
 </urlset>

@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://moshangusa.github.io/post/rep_vs_dem/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moshangusa.github.io/en/post/rep_vs_dem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://moshangusa.github.io/post/rep_vs_dem/"
+                />
+  </url><url>
     <loc>https://moshangusa.github.io/tags/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -59,6 +74,91 @@
   </url><url>
     <loc>https://moshangusa.github.io/post/trillion_budget/</loc>
     <lastmod>2022-12-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/tags/bilingualposts/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moshangusa.github.io/en/tags/bilingualposts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://moshangusa.github.io/tags/bilingualposts/"
+                />
+  </url><url>
+    <loc>https://moshangusa.github.io/tags/%E7%8B%AC%E8%A3%81/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/tags/%E5%85%B1%E5%92%8C/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/tags/%E9%9B%86%E6%9D%83/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/tags/%E6%95%99%E8%82%B2/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/tags/%E7%BE%8E%E5%9B%BD%E7%A4%BE%E4%BC%9A/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/tags/%E6%B0%91%E4%B8%BB/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/tags/%E4%BA%BA%E7%89%A9%E5%8E%86%E5%8F%B2/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/tags/%E6%97%A0%E6%94%BF%E5%BA%9C/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/tags/%E6%94%BF%E6%B2%BB/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/tags/%E7%A4%BE%E5%8C%BA%E5%BB%BA%E8%AE%BE/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moshangusa.github.io/post/harvard_student_speech/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moshangusa.github.io/en/post/harvard_student_speech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://moshangusa.github.io/post/harvard_student_speech/"
+                />
+  </url><url>
+    <loc>https://moshangusa.github.io/post/use_free_platform/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
