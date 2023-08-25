@@ -5,7 +5,7 @@
     <link>https://moshangusa.github.io/tags/</link>
     <description>Recent content in Tags on 陌上美国</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh</language>
     <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://moshangusa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>经济</title>
@@ -36,10 +36,10 @@
     
     <item>
       <title>BilingualPosts</title>
-      <link>https://moshangusa.github.io/tags/bilingualposts/</link>
+      <link>https://moshangusa.github.io/tags/BilingualPosts/</link>
       <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://moshangusa.github.io/tags/bilingualposts/</guid>
+      <guid>https://moshangusa.github.io/tags/BilingualPosts/</guid>
       <description></description>
     </item>
     
@@ -153,10 +153,10 @@
     
     <item>
       <title>Covid19</title>
-      <link>https://moshangusa.github.io/tags/covid19/</link>
+      <link>https://moshangusa.github.io/tags/Covid19/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://moshangusa.github.io/tags/covid19/</guid>
+      <guid>https://moshangusa.github.io/tags/Covid19/</guid>
       <description></description>
     </item>
     
@@ -184,6 +184,42 @@
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://moshangusa.github.io/tags/%E7%9C%9F%E7%9B%B8%E8%BF%BD%E8%B8%AA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>疫苗安全</title>
+      <link>https://moshangusa.github.io/tags/%E7%96%AB%E8%8B%97%E5%AE%89%E5%85%A8/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://moshangusa.github.io/tags/%E7%96%AB%E8%8B%97%E5%AE%89%E5%85%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>疫情</title>
+      <link>https://moshangusa.github.io/tags/%E7%96%AB%E6%83%85/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://moshangusa.github.io/tags/%E7%96%AB%E6%83%85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>突发热点</title>
+      <link>https://moshangusa.github.io/tags/%E7%AA%81%E5%8F%91%E7%83%AD%E7%82%B9/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://moshangusa.github.io/tags/%E7%AA%81%E5%8F%91%E7%83%AD%E7%82%B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>新冠疫苗</title>
+      <link>https://moshangusa.github.io/tags/%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://moshangusa.github.io/tags/%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97/</guid>
       <description></description>
     </item>
     
